@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "title": "Fortnite",
+      "status": "🔴 Nul"
+    },
+    {
+      "title": "Overwatch",
+      "status": "🟢 Approuvé"
+    },
+    {
+      "title": "Paladins",
+      "status": "🔴 Nul"
+    }
+  ]
+}

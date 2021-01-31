@@ -1,0 +1,14 @@
+{
+  "prefix": "$",
+  "commands": [
+    {
+      "name": "games",
+      "description": "Liste tous les jeux qui ont été testés"
+    },
+    {
+      "name": "game",
+      "description": "Donne l'état d'un jeu testé"
+    }
+  ],
+  "error_command": "⚠️ Veuillez saisir une commande valide ! ⚠️"
+}
