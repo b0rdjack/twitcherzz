@@ -80,7 +80,7 @@ Rename the `.env.example` to `.env` and fill out the fields. If `.env.example` i
 
 ## Contributing
 
-Contributions to *Twitcherzz* are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. Check out our [contributing guidelines](https://github.com/kyb3r/modmail/blob/master/.github/CONTRIBUTING.md) before you get started.
+Contributions to *Twitcherzz* are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. Check out our [contributing guidelines](https://github.com/b0rdjack/twitcherzz/blob/master/CONTRIBUTING.md) before you get started.
 
 ## Beta Testing
 
