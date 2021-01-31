@@ -68,7 +68,7 @@ Check that your node and npm versions are not below the listed ones.
 
 ## Configure app 🔧
 
-Rename the `.env.example` to `.env` and fill out the fields. If `.env.example` is nonexistent (hidden), create a text file named `.env` and copy the contents of [`.env.example`](https://raw.githubusercontent.com/kyb3r/modmail/master/.env.example) then modify the values.
+Rename the `.env.example` to `.env` and fill out the fields. If `.env.example` is nonexistent (hidden), create a text file named `.env` and copy the contents of [`.env.example`](https://github.com/b0rdjack/twitcherzz/blob/master/.env.example) then modify the values.
 
 ## Running the project 🚀
 
@@ -80,11 +80,11 @@ Rename the `.env.example` to `.env` and fill out the fields. If `.env.example` i
 
 ## Contributing
 
-Contributions to *Twitcherzz* are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. Check out our [contributing guidelines](https://github.com/kyb3r/modmail/blob/master/.github/CONTRIBUTING.md) before you get started.
+Contributions to *Twitcherzz* are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. Check out our [contributing guidelines](https://github.com/b0rdjack/twitcherzz/blob/master/CONTRIBUTING.md) before you get started.
 
 ## Beta Testing
 
-Our [development](https://github.com/kyb3r/modmail/tree/development) branch is where most of our features are tested before public release. Be warned that there could be bugs in various commands so keep it away from any large servers you manage.
+Our [development](https://github.com/b0rdjack/twitcherzz/tree/develop) branch is where most of our features are tested before public release. Be warned that there could be bugs in various commands so keep it away from any large servers you manage.
 
 ## Template
 
